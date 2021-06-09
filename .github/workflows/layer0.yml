@@ -15,6 +15,6 @@ jobs:
           node-version: '14'
       - run: npm ci
       - run: npm run layer0:build
-      - run: npx layer0 deploy --skip-build --team=demos --token=$LAYER0_DEPLOY_TOKEN --branch=${{github.ref}}
+      - run: npx layer0 deploy --skip-build --team=layer0-docs --token=$LAYER0_DEPLOY_TOKEN --branch=${{github.ref}}
         env:
           LAYER0_DEPLOY_TOKEN: ${{secrets.LAYER0_DEPLOY_TOKEN}}
