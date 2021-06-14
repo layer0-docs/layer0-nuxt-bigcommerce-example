@@ -1,12 +1,8 @@
 # layer0-nuxt-bigcommerce-example
 
-<a
-  style="
-    color: #9c27b0;
-    border: 1px solid rgba(156, 39, 176, 0.5);
-    padding: 10px;
-  "
-  href="https://layer0-docs-layer0-nuxt-bigcommerce-example-default.layer0.link/">EXAMPLE SITE</a>
+<a href="https://layer0-docs-layer0-nuxt-bigcommerce-example-default.layer0.link" style="color:#9c27b0;">EXAMPLE SITE</a>
+
+<a href="https://app.layer0.co/deploy?repo=https%3A%2F%2Fgithub.com%2Flayer0-docs%2Flayer0-nuxt-bigcommerce-example" style="color:#9c27b0;">DEPLOY TO LAYER0</a>
 
 ## bc-nuxt-vue-starter
 
