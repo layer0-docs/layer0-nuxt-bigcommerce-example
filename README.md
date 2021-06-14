@@ -1,5 +1,13 @@
 # layer0-nuxt-bigcommerce-example
 
+<a
+  style="
+    color: #9c27b0;
+    border: 1px solid rgba(156, 39, 176, 0.5);
+    padding: 10px;
+  "
+  href="https://layer0-docs-layer0-nuxt-bigcommerce-example-default.layer0.link/">EXAMPLE SITE</a>
+
 ## bc-nuxt-vue-starter
 
 > BigCommerce + Nuxt + Storefront UI Starter
