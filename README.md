@@ -1,8 +1,8 @@
 # layer0-nuxt-bigcommerce-example
 
-<a href="https://layer0-docs-layer0-nuxt-bigcommerce-example-default.layer0.link" style="color:#9c27b0;">EXAMPLE SITE</a>
+__[EXAMPLE SITE](https://layer0-docs-layer0-nuxt-bigcommerce-example-default.layer0.link/)__
 
-<a href="https://app.layer0.co/deploy?repo=https%3A%2F%2Fgithub.com%2Flayer0-docs%2Flayer0-nuxt-bigcommerce-example" style="color:#9c27b0;">DEPLOY TO LAYER0</a>
+__[DEPLOY TO LAYER0](https://app.layer0.co/deploy?repo=https%3A%2F%2Fgithub.com%2Flayer0-docs%2Flayer0-nuxt-bigcommerce-example)__
 
 ## bc-nuxt-vue-starter
 
